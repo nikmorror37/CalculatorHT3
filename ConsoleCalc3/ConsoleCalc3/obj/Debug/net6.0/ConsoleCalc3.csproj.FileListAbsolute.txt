@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.AssemblyInfo.cs
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\bin\Debug\net6.0\ConsoleCalc3.exe
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\bin\Debug\net6.0\ConsoleCalc3.deps.json
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\bin\Debug\net6.0\ConsoleCalc3.runtimeconfig.json
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\bin\Debug\net6.0\ConsoleCalc3.dll
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\bin\Debug\net6.0\ConsoleCalc3.pdb
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.dll
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\refint\ConsoleCalc3.dll
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.pdb
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ConsoleCalc3.genruntimeconfig.cache
+C:\Users\Nick\Documents\CalculatorHT3\ConsoleCalc3\ConsoleCalc3\obj\Debug\net6.0\ref\ConsoleCalc3.dll
