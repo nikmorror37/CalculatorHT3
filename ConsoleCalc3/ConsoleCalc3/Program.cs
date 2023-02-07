@@ -1,4 +1,5 @@
 ﻿using System.Data;
+using System.Globalization;
 
 namespace ConsoleCalc3
 {
@@ -26,10 +27,10 @@ namespace ConsoleCalc3
                 }
 
                 Console.Write("Write your 1st operand : "); //enter and assign the first input1
-                double a = Convert.ToDouble(Console.ReadLine());
+                double a = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 Console.Write("Write your 2st operand : "); //enter and assign the second input2
-                double b = Convert.ToDouble(Console.ReadLine());
+                double b = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 double result = 0;
 
